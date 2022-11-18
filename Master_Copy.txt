@@ -1,1 +1,2 @@
 Aloha is a Hawaiian word that means both hello and goodbye!
+hello everyone
